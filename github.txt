@@ -1,0 +1,64 @@
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+
+
+for html boiler plate code: ! enter
+
+to beautify the content code written: alt+shift+f
+
+to install any extention: ctrl+ shift + x
+
+
+
+https://unsplash.com/
+
+
+
+https://cdnjs.com/    for font dnwld
+
+font osom website   https://fontawesome.com/search?s=thin&o=r
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+yess
+are we done?
+Faculty 115
+To
+Everyone
+11:28:13 PM
+F1
+https://lms.simplilearn.com/nps/session/639da2992b22261dd54ea791/1671285600000/99540407937/zoom
+Gopi Balaraju
+To
+Everyone
+11:28:50 PM
+GB
+thankyou
+Sonam Soni
+To
+Everyone
+11:30:32 PM
+SS
+https://github.com/sonam-niit/JAVA-Phase-4-17-12
+Drazen Drinic
+To
+Everyone
+11:30:49 PM
+DD
+ty
+Me
+To
+Every
+
+
+
+
+
+
+
+https://github.com/sonam-niit/Java-Phase2-Evening/tree/main/CapstoneProject/medicare-frontend
+
+@CrossOrigin("http://localhost:4200/")
